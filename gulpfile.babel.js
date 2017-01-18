@@ -105,6 +105,8 @@ function humanize(categoryId){
     case 'hockeyapp': return 'HockeyApp';
     case 'http': return 'HTTP';
     case 'iis': return 'IIS';
+    case 'linux': return 'Linux';
+    case 'microsoft-teams': return 'Microsoft Teams';
     case 'netscaler': return 'NetScaler';
     case 'newrelic': return 'New Relic';
     case 'nunit': return 'NUnit';
